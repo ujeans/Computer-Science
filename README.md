@@ -40,7 +40,7 @@ cs지식이란 컴퓨터 공학적 지식을 말한다.
 
 ## Part 3
 
-### :bulb: 네트워크 [Link](https://github.com/timobyjin02/Computer-Science-study/tree/Network)
+### :bulb: 네트워크 [Link](https://github.com/timobyjin02/Computer-Science/blob/main/Network/index.md)
 
 - TCP 3, 4way handShake
 - OSI 7계층
