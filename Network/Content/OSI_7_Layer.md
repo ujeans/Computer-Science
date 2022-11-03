@@ -133,4 +133,4 @@ OSI 7 Layer은 네트워크에서 통신이 일어나는 과정을 7단계로 �
 
 메일을 **전달**한다 - **Applicaton**
 
-[뒤로](https://github.com/timobyjin02/Computer-Science-study/tree/Network)
+[뒤로](https://github.com/timobyjin02/Computer-Science/blob/main/Network/index.md)
