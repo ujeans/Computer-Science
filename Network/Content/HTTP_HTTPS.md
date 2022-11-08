@@ -1,6 +1,6 @@
 - [HTTP](#HTTP란)
 - [HTTPS](#HTTPS란)
-- [HTTP vs. HTTPS](#HTTP-vs.-HTTPS)
+- [HTTP vs. HTTPS](#HTTP와-HTTPS)
 
 # HTTP란
 
@@ -120,7 +120,7 @@ HTTPS 통신 과정
 
 위 과정을 통해서 대칭키와 암호화 방식으로 데이터를 송, 수신하게된다.
 
-# HTTP vs. HTTPS
+# HTTP와 HTTPS
 
 ![Untitled](https://user-images.githubusercontent.com/101804857/200467735-75ba5d0d-6f3d-4f84-8eee-caa82f0eba79.png)
 
