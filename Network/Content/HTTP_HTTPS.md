@@ -183,4 +183,4 @@ SSL을 적용하기 위해서는 인증서라는 것이 필요하다.
 
 이 인증서를 발급해주는 기업을 CA라고 한다. 인증서가 보안에 관련된 것인 만큼 CA는 영향력이 있고 신뢰할 수 있는 기업에서만 가능하다.
 
-2. [대칭키와 공개키]()
+2. [대칭키와 공개키](https://github.com/timobyjin02/Computer-Science/blob/main/Network/Content/%EB%8C%80%EC%B9%AD%ED%82%A4%EC%99%80%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
