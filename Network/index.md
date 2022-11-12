@@ -5,7 +5,7 @@
 - [TCP 3, 4-way-handshake](https://github.com/timobyjin02/Computer-Science/blob/main/Network/Content/TCP_3%2C4_Way_Handshake.md)
 - [HTTP vs. HTTPS](https://github.com/timobyjin02/Computer-Science/blob/main/Network/Content/HTTP_HTTPS.md#HTTP%EC%99%80-HTTPS.md)
 - [대칭키와 공개키](https://github.com/timobyjin02/Computer-Science/blob/main/Network/Content/%EB%8C%80%EC%B9%AD%ED%82%A4%EC%99%80%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
-- HTTP GET vs POST
+- [HTTP GET vs POST](https://github.com/timobyjin02/Computer-Science/blob/main/Network/Content/HTTP_GET_POST.md)
 - TSL/SSL HandShake
 - 로드밸런싱
 - Blocking/Non-blocking
