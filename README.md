@@ -56,7 +56,7 @@ cs지식이란 컴퓨터 공학적 지식을 말한다.
 
 ## Part 4
 
-### :bulb: 데이터베이스 [Link]()
+### :bulb: 데이터베이스 [Link](https://github.com/timobyjin02/Computer-Science/blob/main/Database/index.md)
 
 - Index
   Index의 성능과 고려해야할 사항
