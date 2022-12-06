@@ -2,7 +2,7 @@
 
 - [Index](https://github.com/timobyjin02/Computer-Science/blob/main/Database/Content/index.md)
 - [Primary index vs. Secondary index]
-- [Composite]
+- [Composite](https://github.com/timobyjin02/Computer-Science/blob/main/Database/Content/Composite.md)
 - Hash
 - Hash Table
 - B + Tree
