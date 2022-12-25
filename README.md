@@ -115,7 +115,7 @@ cs지식이란 컴퓨터 공학적 지식을 말한다.
 
 ## Part 6
 
-### :bulb: 자료구조 [Link]()
+### :bulb: 자료구조 [Link](https://github.com/timobyjin02/Computer-Science/blob/main/Data_Structure/index.md)
 
 - Array
 - Linked List
