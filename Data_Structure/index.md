@@ -4,7 +4,7 @@
 - Linked List
 - Dict
 - Stack, Queue(Deque)
-- Hash
+- [Hash](https://github.com/timobyjin02/Computer-Science/blob/main/Data_Structure/Content/Hash.md)
 - Binary Heap
 - Tree
 - Red-Black Tree
